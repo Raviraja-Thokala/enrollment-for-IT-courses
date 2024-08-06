@@ -1,0 +1,79 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap");
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+body {
+    margin: 1%;
+}
+
+header {
+    background-color: rgb(24, 72, 91);
+    height: 500px;
+    border-radius: 5px;
+    color: #fff;
+
+}
+
+.main {
+    padding-top: 40px;
+    padding-left: 20px;
+}
+
+#float1 {
+    width: 80%;
+    float: left;
+    padding-top: 50px;
+}
+
+#float2 {
+    width: 20%;
+    float: right;
+}
+
+.login {
+    background-color: #fff;
+    width: 97%;
+    height: 350px;
+    padding-left: 10px;
+    border-radius: 5px;
+
+}
+
+.float3 {
+    width: 33.33%;
+    float: left;
+    padding: 40px;
+    font-size: 20px;
+}
+
+.float4 {
+    width: 33.33%;
+    float: right;
+    padding: 40px;
+    font-size: 20px;
+}
+
+.float5 {
+    width: 33.33%;
+    float: right;
+    padding: 40px;
+    font-size: 20px;
+}
+
+.float6{
+    width: 50%;
+    float: left;
+    padding-bottom: 40px;
+}
+
+.float7{
+    width: 50%;
+    float: right;
+    padding-bottom: 40px;
+
+}

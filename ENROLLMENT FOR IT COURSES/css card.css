@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap");
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+body {
+    margin: 1%;
+}
+
+header {
+    background-color: rgb(41, 114, 127);
+    height: 500px;
+    border-radius: 5px;
+    color: #fff;
+
+}
+
+.main {
+    padding-top: 40px;
+    padding-left: 20px;
+}
+
+#float1 {
+    width: 80%;
+    float: left;
+    padding-top: 50px;
+}
+
+#float2 {
+    width: 20%;
+    float: right;
+}
